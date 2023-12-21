@@ -1,4 +1,4 @@
-###  Software Engineer | Data Science Enthusiast 
+###  Software Engineer
 
 <!--<p align="left">
     <a href="mailto:huniko.development@gmail.com" target="_blank">
