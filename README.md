@@ -1,7 +1,6 @@
 ###  Software Engineer | Data Science Enthusiast 
-More on [Personal Website](https://huniko519.vercel.app/)
 
-<p align="left">
+<!--<p align="left">
     <a href="mailto:huniko.development@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/gmail-%23c71610.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="gmail" height="25px">
     </a>
@@ -14,7 +13,7 @@ More on [Personal Website](https://huniko519.vercel.app/)
     <a href="https://api.whatsapp.com/send?phone=16176520909&text=Hi!" target="_blank">
         <img src="https://img.shields.io/badge/whatsapp-%989E87FB.svg?&amp;style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="whatsapp" height="25px">
     </a>
-</p>
+</p>-->
 
 <table><tr>
 
