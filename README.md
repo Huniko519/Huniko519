@@ -21,9 +21,9 @@
 
 ### On my blog
 
-<a href="https://app.daily.dev/huniko519" target="_blank" rel="noreferrer">
+<!--<a href="https://app.daily.dev/huniko519" target="_blank" rel="noreferrer">
   <img align="right" alt="Huniko519's Dev Card" width="25%" src="https://github.com/Huniko519/Huniko519/blob/main/devcard.svg" /> <br>
-</a>
+</a>-->
 
 <!-- blog starts -->
 * [The Power of Data Science: Revolutionizing the Way We Learn and Make Decisions](https://huniko519.hashnode.dev/the-power-of-data-science-revolutionizing-the-way-we-learn-and-make-decisions)
