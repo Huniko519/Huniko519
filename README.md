@@ -1,4 +1,4 @@
-###  Software Engineer | Project Manager | 6 Years Industry Experience
+###  Software Engineer | Project Manager | 7 Years Industry Experience
 
 <!--<p align="left">
     <a href="mailto:huniko.development@gmail.com" target="_blank">
