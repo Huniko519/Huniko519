@@ -66,6 +66,5 @@ More on [Repositories](https://github.com/Huniko519?tab=repositories)
 
 ###### It is determined by worldview and values. You read so many books, walked so many roads, and then returned to yourself.
 ###### Thinking about what my dream is and what kind of person I want to be.
-
 </tr>
 </table>
