@@ -68,3 +68,4 @@ More on [Repositories](https://github.com/Huniko519?tab=repositories)
 ##### Thinking about what my dream is and what kind of person I want to be.
 </tr>
 </table>
+<hr>
