@@ -50,21 +50,27 @@ More on [Repositories](https://github.com/Huniko519?tab=repositories)
 </tr>
 
 <tr>
+    
+❤️ I am building personal project called [PersonaIQ](https://persona-iq.vercel.app)
+    
+</tr>
+
+<tr>
 <hr>
 
 ### What are three views
 
 #### Worldview
 
-###### It is your view of the world. A person's worldview is determined by what he sees and hears. For example, if you learn a formula, read a book, or make a wise friend today, they are all enriching and expanding your worldview.
+###### 🌏 It is your view of the world. A person's worldview is determined by what he sees and hears. For example, if you learn a formula, read a book, or make a wise friend today, they are all enriching and expanding your worldview.
 
 #### Values
 
-###### It means what you think is the right thing to do. Different people have different views on the same thing. For example, some people believe that knowledge can change destiny. Some people think that it is useless, some people think that health is the most important, and some people think that wealth is the most important.
+###### 🫰 It means what you think is the right thing to do. Different people have different views on the same thing. For example, some people believe that knowledge can change destiny. Some people think that it is useless, some people think that health is the most important, and some people think that wealth is the most important.
 
 #### Outlook on life
 
-###### It is determined by worldview and values. You read so many books, walked so many roads, and then returned to yourself.
+###### 👄 It is determined by worldview and values. You read so many books, walked so many roads, and then returned to yourself.
 ##### Thinking about what my dream is and what kind of person I want to be.
 </tr>
 </table>
