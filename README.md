@@ -51,7 +51,7 @@ More on [Repositories](https://github.com/Huniko519?tab=repositories)
 
 <tr>
     
-❤️ I am building personal project called [PersonaIQ](https://persona-iq.vercel.app)
+❤️ I am building personal project(mvp) called [PersonaIQ](https://persona-iq.vercel.app)
     
 </tr>
 
