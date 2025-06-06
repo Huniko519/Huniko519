@@ -42,7 +42,7 @@ More on [Blogs](https://huniko519.hashnode.dev/)
 ### Latest Projects
 
 <!-- Latest Projects -->
-* [Github-Auto-Follow-Unfollow-View-User-List](https://github.com/Huniko519/Github-Auto-Follow-Unfollow-View-User-List)
+* [Github-Follow-Unfollow-Automation-Bot-Github-Action](https://github.com/Huniko519/Github-Follow-Unfollow-Automation-Bot-Github-Action)
 * [ChatGPT-React-Next-Web](https://github.com/Huniko519/ChatGPT-React-Next-Web)
 <!-- Projects ends -->
 More on [Repositories](https://github.com/Huniko519?tab=repositories)
