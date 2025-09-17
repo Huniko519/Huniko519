@@ -46,13 +46,8 @@ More on [Blogs](https://huniko519.hashnode.dev/)
 * [ChatGPT-React-Next-Web](https://github.com/Huniko519/ChatGPT-React-Next-Web)
 <!-- Projects ends -->
 More on [Repositories](https://github.com/Huniko519?tab=repositories)
-
 </tr>
-
 <tr>
-    
 ❤️ I am building personal project(mvp) called [PersonaIQ](https://persona-iq.vercel.app)
-    
 </tr>
-
 </table>
